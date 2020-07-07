@@ -1,0 +1,19 @@
+- Summary of all the business unit and their performance.
+- Show the sales by State
+- Sales & Gross Margin by financial Year quaters
+- Sales by Chain
+- How diff state are performing through map
+- Sales by catagory and chain  
+
+
+******************************************************
+
+Charts Prepared in Dashboard
+
+- KPI 
+- Clustered Bar Graph
+- Pie Chart
+- Horizental Clustered bar Graph
+- Geo Map
+- Bubble Chart with play axis
+- Slicer
